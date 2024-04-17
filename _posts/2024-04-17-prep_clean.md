@@ -22,3 +22,11 @@ S I have just recieved the letter , which lets me know that I have won the first
 A 3 4|||R:SPELL|||received|||REQUIRED|||-NONE-|||0
   </code>
 </pre>
+
+<pre>
+  <code>
+S I have just recieved the letter , which lets me know that I have won the first prize .
+A 3 4|||R:SPELL|||received|||REQUIRED|||-NONE-|||0
+A 6 8|||R:ORTH|||letter,|||REQUIRED|||-NONE-|||0
+  </code>
+</pre>
